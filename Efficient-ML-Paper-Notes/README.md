@@ -2,7 +2,11 @@
 
 ## Info: 
 
-This section contains important information about the paper. It should include: * Date: the date the paper was published * Topic: a brief description of the topic(s) covered in the paper * PDF link: a link to the PDF version of the paper (if available)
+This section contains important information about the paper. It should include: 
+* Date: the date the paper was published 
+* Topic: a brief description of the topic(s) covered in the paper 
+* PDF link: a link to the PDF version of the paper (if available)
+* Code link: a link to the code repository of the paper (if available)
 
 ## Summary:  
 
