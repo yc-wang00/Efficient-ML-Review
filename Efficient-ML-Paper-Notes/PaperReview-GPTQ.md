@@ -1,7 +1,7 @@
 # GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers 
 
 ## Info: 
-- ___Date submitted____:  31 Oct 2022
+- ___Date Submitted____:  31 Oct 2022
 - ___Topic___: #quantization, #transformer, #efficient-ml 
 - ___PDFLink___: [[GPTQ.pdf]] 
 - ___CodeLink___: https://github.com/IST-DASLab/gptq
